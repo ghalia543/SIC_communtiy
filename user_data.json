@@ -1,0 +1,118 @@
+{
+    "ghalia@gmail.com": {
+        "username": "ghalia",
+        "phone_number": "111111111",
+        "email": "ghalia@gmail.com",
+        "gender": "Female",
+        "governorate": "Giza",
+        "password": "1234",
+        "age": 19,
+        "national_id": "111111111111",
+        "friends": [
+            "adam@gmail.com",
+            "aya@gmail.com"
+        ],
+        "posts": [
+            {
+                "content": "Is there a session today",
+                "reactions": 3,
+                "comments": [
+                    "adam: yes!",
+                    "aya: there is"
+                ],
+                "date": ""
+            }
+        ],
+        "friend_requests": [
+            "ahmed@gmail.com"
+        ]
+    },
+    "adam@gmail.com": {
+        "username": "adam",
+        "phone_number": "1111111111111",
+        "email": "adam@gmail.com",
+        "gender": "Male",
+        "governorate": "Aswan",
+        "password": "1234",
+        "age": 19,
+        "national_id": "11111111111111",
+        "friends": [
+            "ghalia@gmail.com",
+            "aya@gmail.com"
+        ],
+        "posts": [
+            {
+                "content": "Can anyone explain what is a list in python?",
+                "reactions": 8,
+                "comments": [
+                    "ghalia: a container that can hold multiple items (like numbers or words), and you can add, remove, or change things in it anytime",
+                    "aya: graet"
+                ],
+                "date": ""
+            }
+        ],
+        "friend_requests": []
+    },
+    "aya@gmail.com": {
+        "username": "aya",
+        "phone_number": "111111111111",
+        "email": "aya@gmail.com",
+        "gender": "Female",
+        "governorate": "Alexandria",
+        "password": "1234",
+        "age": 19,
+        "national_id": "2222222222222",
+        "friends": [
+            "adam@gmail.com",
+            "ghalia@gmail.com",
+            "ahmed@gmail.com"
+        ],
+        "posts": [
+            {
+                "content": "Where to find the materials",
+                "reactions": 2,
+                "comments": [
+                    "ghalia: whatsapp"
+                ],
+                "date": ""
+            },
+            {
+                "content": "hello2",
+                "reactions": 0,
+                "comments": [],
+                "date": ""
+            }
+        ],
+        "friend_requests": []
+    },
+    "ahmed@gmail.com": {
+        "username": "ahmed",
+        "phone_number": "1111111111111",
+        "email": "ahmed@gmail.com",
+        "gender": "Male",
+        "governorate": "Aswan",
+        "password": "1234",
+        "age": 20,
+        "national_id": "111111111111111",
+        "friends": [
+            "aya@gmail.com"
+        ],
+        "posts": [],
+        "friend_requests": []
+    },
+    "amr@gmail.com": {
+        "username": "amr",
+        "phone_number": "11111111111",
+        "email": "amr@gmail.com",
+        "gender": "Male",
+        "governorate": "Alexandria",
+        "password": "1234",
+        "age": 20,
+        "national_id": "2222222222222",
+        "friends": [],
+        "posts": [],
+        "friend_requests": [
+            "aya@gmail.com"
+        ]
+    }
+}
